@@ -55,4 +55,16 @@ AND table_type = 'BASE TABLE'
 ORDER BY table_name;
 
 
-Explícame qué es un análisis bivariado
+prompt: Explícame qué es un análisis bivariado
+
+
+prompt: tras ver todas las tablas, saqué las siguientes conclusiones. Cuál de estas curiosidades refleja un análisis bivariado?
+
+prompt: vale, creo que haremos los siguientes 4 análisis bivariados
+
+1. ¿Hay alguna relación entre el tiempo que transcurre entre orderDate y shippedDate con el pais del que son estos clientes?
+2. ¿Hay alguna relación entre el monto comprado  y el tiempo que transcurre entre orderDate y shippedDate?
+3. ¿Hay alguna relación entre el país del que es el cliente y límite de crédito?
+4. ¿Si hay más stock es porque se vende más el producto o porque se vende menos?
+
+Estas son simplemente preguntas que escogí del análisis que hice. ¿cómo se hace un análisis bivariado con estas preguntas? ¿sí se hace con preguntas? ¿se escojen gráficos para verlo mejor? ¿qué se hace?

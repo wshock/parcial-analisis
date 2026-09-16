@@ -136,4 +136,3 @@ Con el enunciado del parcial como contexto: ¿cuál es la mejor manera de trabaj
 - [x] Errores y limitaciones
 - [x] Buenas prácticas (comprensión, prueba, verificación, interpretación propia, credenciales, responsabilidad)
 
-**Nota:** Este Markdown puede exportarse a PDF o Word para subir a Unac virtual según lo pedido en el enunciado.

@@ -44,15 +44,6 @@ prompt:quiero agrupar una tabla por los valores categóricos de una columna y qu
 
 promp: quiero ver la cantidad de customers que tiene cada empleado, para eso primero necesito hacer un join y luego agrupar con empleado, verdad? si es así, cómo haría eso en python?
 
-----
-Consultapara ver todas las columnas
-SELECT 
-	table_name AS tabla,
-    table_rows AS registros
-FROM information_schema.tables
-WHERE table_schema = 'classicmodels'
-AND table_type = 'BASE TABLE'
-ORDER BY table_name;
 
 
 prompt: Explícame qué es un análisis bivariado

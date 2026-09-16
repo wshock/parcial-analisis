@@ -68,3 +68,6 @@ prompt: vale, creo que haremos los siguientes 4 análisis bivariados
 4. ¿Si hay más stock es porque se vende más el producto o porque se vende menos?
 
 Estas son simplemente preguntas que escogí del análisis que hice. ¿cómo se hace un análisis bivariado con estas preguntas? ¿sí se hace con preguntas? ¿se escojen gráficos para verlo mejor? ¿qué se hace?
+
+
+prompt: qué opinas de esta conclusión?

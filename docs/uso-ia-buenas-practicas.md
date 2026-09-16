@@ -126,13 +126,3 @@ Con el enunciado del parcial como contexto: ¿cuál es la mejor manera de trabaj
 - **Responsabilidad del contenido:** el equipo asume lo entregado (código, gráficos, conclusiones y este documento), aunque la IA haya apoyado en el proceso.
 
 ---
-
-## 7. Checklist rápido del entregable (Parte 5)
-
-- [x] Herramientas de IA utilizadas (Gemini, Claude, ChatGPT/Cursor)
-- [x] Actividades por integrante
-- [x] Principales prompts / instrucciones
-- [x] Forma de validación
-- [x] Errores y limitaciones
-- [x] Buenas prácticas (comprensión, prueba, verificación, interpretación propia, credenciales, responsabilidad)
-
